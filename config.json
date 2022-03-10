@@ -1,0 +1,7 @@
+{
+    "url_tracker":"url_seen_list.txt",
+    "base_data_collection":"report_phishtank.csv",
+    "vtotal":"659148aa9d211ce114a89ca8d11c94445c18181718a71915243a0fdd5d973268",
+    "phish_detail_column_name":"Phish_Detail_URL",
+    "URL_ID_column_name":"PhishID"
+}
